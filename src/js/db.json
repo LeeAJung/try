@@ -1,0 +1,22 @@
+{
+    "user":[
+        {
+            "data":"1",
+            "name":"东",
+            "province":"good",
+            "doing":22
+        },
+        {
+            "data":"2",
+            "name":"西",
+            "province":"good",
+            "doing":22
+        },
+        {
+            "data":"3",
+            "name":"南",
+            "province":"good",
+            "doing":22
+        }
+    ]
+}
